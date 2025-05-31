@@ -1,0 +1,9 @@
+/logs/
+/tmp/
+/cache/
+/administrator/logs/
+configuration.php
+.env
+.htaccess
+*.zip
+*.tar.gz
