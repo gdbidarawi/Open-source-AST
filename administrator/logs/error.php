@@ -9,3 +9,4 @@
 2025-05-31T05:50:32+00:00	INFO ::1	joomlafailure	Username and password do not match or you do not have an account yet.
 2025-05-31T05:50:41+00:00	INFO ::1	joomlafailure	Username and password do not match or you do not have an account yet.
 2025-05-31T05:51:01+00:00	INFO ::1	joomlafailure	Username and password do not match or you do not have an account yet.
+2025-05-31T07:23:02+00:00	INFO ::1	joomlafailure	Empty password not allowed.
